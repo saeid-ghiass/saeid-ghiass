@@ -40,15 +40,15 @@ Building secure systems, intelligent solutions, and modern web applications.
 
 🎓 Master's Student in Artificial Intelligence
 
-🔐 Passionate about Cybersecurity & Secure Software Development
+🔐 Interested in Cybersecurity & Secure Software Development
 
-🤖 Machine Learning & Deep Learning Enthusiast
+🤖 Machine Learning and Deep Learning Practitioner
 
-👁️ Computer Vision Research
+👁️ Computer Vision and Image Processing Research
+
+💻 Software Developer
 
 🌐 Full-Stack Web Developer
-
-💻 Software Engineer
 
 ---
 
@@ -64,6 +64,13 @@ Building secure systems, intelligent solutions, and modern web applications.
 ---
 
 # 💻 Programming Languages
+
+- Python
+- C++
+- JavaScript
+- PHP
+- SQL
+- HTML/CSS
 
 <p align="left">
 
@@ -107,21 +114,6 @@ Building secure systems, intelligent solutions, and modern web applications.
 
 </p>
 
----
-
-# 🤖 Artificial Intelligence
-
-- Machine Learning
-
-- Deep Learning
-
-- Computer Vision
-
-- Neural Networks
-
-- Image Processing
-
-- Data Analysis
 
 ---
 
@@ -141,7 +133,31 @@ Building secure systems, intelligent solutions, and modern web applications.
 
 ---
 
+# 🤖 Artificial Intelligence
+
+- Machine Learning
+
+- Deep Learning
+
+- Computer Vision
+
+- Neural Networks
+
+- Image Processing
+
+- Data Analysis
+
 # 🛠 Tools
+
+- Git & GitHub
+- Linux
+- VS Code
+- Docker
+- PyTorch
+- TensorFlow
+- OpenCV
+- MySQL
+---
 
 <p>
 
@@ -230,7 +246,7 @@ https://github.com/saeid-ghiass
 
 <p align="center">
 
-### "Security First. Intelligence Always."
+### "Building intelligent systems with security in mind."
 
 </p>
 
