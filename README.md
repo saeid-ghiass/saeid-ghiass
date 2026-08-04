@@ -1,3 +1,29 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineer;Artificial+Intelligence+Researcher;Software+Engineer;Full-Stack+Web+Developer;Machine+Learning+Engineer;Computer+Vision+Developer"/>
+</p>
+<p align="center">
+
+<img src="https://avatars.githubusercontent.com/saeid-ghiass" width="170"/>
+
+</p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=saeid-ghiass&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-Expert-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Master-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FullStack-Developer-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-orange?style=for-the-badge"/>
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Saeid Ghiass</h1>
 
 <h3 align="center">
@@ -169,6 +195,17 @@ https://github.com/saeid-ghiass
 
 </p>
 
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🔐 Cyber Security | Security tools and labs |
+| 🤖 Machine Learning | ML projects |
+| 👁 Computer Vision | Image Processing |
+| 🌐 Full Stack | Web Applications |
+| 💻 Python | Python utilities |
+| 📚 Research | AI papers |
+
 ---
 
 # 🔥 GitHub Streak
@@ -194,5 +231,14 @@ https://github.com/saeid-ghiass
 <p align="center">
 
 ### "Security First. Intelligence Always."
+
+</p>
+<p align="center">
+
+<h2 align="center">
+
+"Secure the Future with Intelligence"
+
+</h2>
 
 </p>
