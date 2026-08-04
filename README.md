@@ -159,6 +159,38 @@ https://github.com/saeid-ghiass
 
 ---
 
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saeid-ghiass&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeid-ghiass&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=saeid-ghiass&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=saeid-ghiass&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
 <p align="center">
 
 ### "Security First. Intelligence Always."
