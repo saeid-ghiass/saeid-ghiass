@@ -249,17 +249,9 @@ https://github.com/saeid-ghiass
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/saeid-ghiass/saeid-ghiass/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/saeid-ghiass/saeid-ghiass/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-
-<h2 align="center">
-
-"Secure the Future with Intelligence"
-
-</h2>
-
+  <b>Secure the Future with Intelligence</b>
 </p>
