@@ -251,7 +251,7 @@ Building intelligent systems with security in mind.
 </a>
 
 
-<a href="www.linkedin.com/in/saeid-ghiass">
+<a href="https://linkedin.com/saeid-ghiass">
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 
